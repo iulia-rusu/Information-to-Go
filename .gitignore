@@ -2,6 +2,9 @@
 environment_decision_heatmaps/
 heatmaps/
 media/
+B_ses1/
+heatmaps_png/
+heatmap_videos/
 
 # Ignore backup and temp files
 .ipynb_checkpoints/
