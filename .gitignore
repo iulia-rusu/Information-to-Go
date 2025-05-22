@@ -5,6 +5,7 @@ media/
 B_ses1/
 heatmaps_png/
 heatmap_videos/
+Gulli/
 
 # Ignore backup and temp files
 .ipynb_checkpoints/
